@@ -8,10 +8,10 @@
 
 ### 동작 방식
 1. **백준**: 
-   - 문제 출처: [백준 - 문제 페이지](https://solved.ac/problems/)
+   - 문제 출처: https://solved.ac/problems/
    - 추출 정보: 문제 제목, 태그, 푼 사람 수, 평균 시도 횟수, 난이도, 링크
 2. **프로그래머스**:
-   - 문제 출처: [프로그래머스 - 문제 페이지](https://school.programmers.co.kr)
+   - 문제 출처: https://school.programmers.co.kr/
    - 추출 정보: 문제 제목, 문제 링크, 난이도, 정답률
 
 ### 설치 및 실행 방법
